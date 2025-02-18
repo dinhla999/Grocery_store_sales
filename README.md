@@ -6,6 +6,7 @@ In this dataset, I will use Power BI to present a visualization of Product sales
 Here I have two independent Excel files, it is "Product.xlsx" and "SalesData.xlsx".
 
 I create a table to measure the Total Revenue, Number of Orders, and Average Revenue.
+
 ![{EE64C9E1-4D63-4E46-B9FF-333B50D589F2}](https://github.com/user-attachments/assets/b9a4c342-cfa2-481e-9513-39b050355be3)
 
 From the table, I build a Stacked Column Chart to present the total revenue, the chart presents explicitly the total revenue by months in the year 2020 much higher than the year 2019.  The highest sales of month was October.
