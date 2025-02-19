@@ -1,4 +1,4 @@
-### **Product sales data**
+### **Grocery store sales data**
 
 Greetings! 
 
