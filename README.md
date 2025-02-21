@@ -1,6 +1,6 @@
 ### **Grocery store sales data**
 
-Greetings! 
+use Power BI to analyze dataset 
 
 In this dataset, I will use Power BI to present a visualization of Product sales disparate over 2 years from 2019 to 2020. 
 Here I have two independent Excel files, it is "Product.xlsx" and "SalesData.xlsx".
