@@ -29,7 +29,7 @@ Lastly, I list all product category sales from 2019 to 2020, we got the Wheat Fl
 
 ![{98BD1C44-83D5-4D83-9F7D-63A821AB250A}](https://github.com/user-attachments/assets/d77a5f70-6984-4082-8684-3b90fa441ea7)
 
-To overview the whole graphic that I have built
+# overview the whole graphic that I have built
 
 ![{8D49961C-3EEC-4E1F-BCE7-E165EBF28E14}](https://github.com/user-attachments/assets/d7123145-fe75-4a71-9199-64e4e502ef1c)
 
